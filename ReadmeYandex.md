@@ -7,4 +7,6 @@ En este proyecto, comparamos las preferencias musicales de las ciudades de Sprin
 2. Posteriormente se realizó la limpieza de datos y el reemplazo de valores faltantes
 3. Se analizaron hipótesis relacionadas a las preferencias musicales en cada ciudad bajo estudio
 
-Este proyecto fue realizado usando jupyter notebook y python.
+Este proyecto fue realizado usando:
+- [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+- [![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=101010)]()
